@@ -17,8 +17,8 @@ For decoding to run in another repository, please check if the paths defined in 
 -----------------
 This repo was created by study group 3, which consists of:
 
-Ida
-Sam
-Matilda
-Glorija
-Nadia
+- Ida
+- Sam
+- Matilda
+- Glorija
+- Nadia
